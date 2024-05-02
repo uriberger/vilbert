@@ -47,3 +47,5 @@ checkpoints/
 # virtualenv
 venv/
 ENV/
+
+vqa-maskrcnn-benchmark
